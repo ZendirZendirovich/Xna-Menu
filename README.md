@@ -33,7 +33,7 @@ https://docs.monogame.net/articles/tutorials/building_2d_games/17_scenes/index.h
 
 Частая проблема самого движка, чтобы исправить просто создайте новый CrossPlatform MonoGame проект и перекиньте код, со всеми спрайтами из папки Content через MGCB
 
-**Шрифт Minecraft Rus Legular.tff нужно просто закинуть через VS(либо другая программа через которую вы делаете)в папку Content, НЕ ЧЕРЕЗ MGCB!!**
+**Шрифт Minecraft Rus Regular.ttf нужно просто закинуть через VS(либо другая программа через которую вы делаете)в папку Content, НЕ ЧЕРЕЗ MGCB!!**
 
 ## License
 Этот проект распространяется под лицензией **MIT**. 
